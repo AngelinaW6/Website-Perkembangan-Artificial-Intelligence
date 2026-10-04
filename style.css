@@ -1,0 +1,36 @@
+body {
+  background-color: whitesmoke;
+    font-family: sans-serif;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+   color: black;
+    text-align: center;
+}
+
+h2 {
+   color: rosybrown;
+}
+
+h3 {
+   color: palevioletred;
+}
+
+p {
+	font-family: "arial", sans-serif;
+	 color: black;
+}
+
+section {
+	background-color: peachpuff;
+	width: 90%;
+	padding: 30px;
+	margin: 15px auto;
+	box-sizing: border-box;
+}
+
+img {
+  width: 250px;
+}
